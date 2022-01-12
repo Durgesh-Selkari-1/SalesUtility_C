@@ -19,7 +19,7 @@ export class FormSidebarMenu extends Component {
                 text:'Dashboard', 
                 iconCss: 'icon-globe icon',
                 id: 'dashboard',
-                url:'/Dashboard'
+              url:'/Dashboard'
                 
                 // items: [
                 //     { text: 'All Data' },
@@ -67,7 +67,7 @@ export class FormSidebarMenu extends Component {
        
         // window.history.replaceState(null, "New Page Title", "/Dashboard");
         // window.location.reload(false);
-
+        // e.preventDefault();
         // window.location.replace("/Dashboard");
 
 
